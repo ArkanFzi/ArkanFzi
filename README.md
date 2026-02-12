@@ -8,7 +8,6 @@ My name is M.Arkan Fauzi 🔭 I'm currently a **student from Indonesia** 👯 I'
 
 ---
 
-## 🎥 Featured Animation:
 ![My Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p0NHMyb2d6aHV3ZHh5c2hxdW51bWc4eTRyOWt5dHp5YjR1MWI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0GEwekqtkf5mWk/giphy.gif)
 
 ---
