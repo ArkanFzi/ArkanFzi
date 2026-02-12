@@ -46,13 +46,24 @@ My name is M.Arkan Fauzi 🔭 I'm currently a **student from Indonesia** 👯 I'
 # 📊 GitHub Stats:
 
 ### 📈 Overall Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+[![Arkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark&hide_border=false)
+### 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ArkanFzi&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🎯 GitHub Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArkanFzi&theme=dark&hide_border=false)
+### 🔥 Contribution Streak & Most Used Languages
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArkanFzi&theme=dark" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark&hide_border=false&include_all_commits=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📊 Contribution Graph
 ![](https://activity-graph.herokuapp.com/graph?username=ArkanFzi&theme=dark-dimmed&bg_color=0D1117&hide_border=false)
