@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **Awesome Projects** 👯 I'm looking to collaborate on **Open Source Contributions** 🤝 I'm looking for help with **Advanced System Architecture** 🌱 I'm currently learning **Advanced Development** ⚡ Fun fact: I'm passionate about building awesome solutions!
+My name is M.Arkan Fauzi 🔭 I'm currently a **student from Indonesia** 👯 I'm looking to collaborate on **Open Source Contributions** 🤝 I'm looking for help with **Advanced System Architecture** 🌱 I'm currently learning **Advanced Development** ⚡ Fun fact: I'm passionate about building awesome solutions!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arkan_fzi) 
@@ -9,7 +9,7 @@
 ---
 
 ## 🎥 Featured Animation:
-![My Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueZCZ3YmZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxS0L9v7s4/giphy.gif)
+![My Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p0NHMyb2d6aHV3ZHh5c2hxdW51bWc4eTRyOWt5dHp5YjR1MWI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0GEwekqtkf5mWk/giphy.gif)
 
 ---
 
