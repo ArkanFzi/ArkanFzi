@@ -46,10 +46,10 @@ My name is M.Arkan Fauzi 🔭 I'm currently a **student from Indonesia** 👯 I'
 # 📊 GitHub Stats:
 
 ### 📈 Overall Statistics
-![](https://github-readme-stats.vercel.app/api?username=ArkanFzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ### 🔥 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanFzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark&hide_border=false)
 
 ### 🎯 GitHub Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArkanFzi&theme=dark&hide_border=false)
