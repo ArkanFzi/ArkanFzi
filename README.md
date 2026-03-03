@@ -74,8 +74,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark" alt="Arkan's GitHub stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark" alt="Arkan's GitHub stats" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark" alt="Top Languages" height="195" />
   <br/><br/>
   
   <img src="https://streak-stats.demolab.com/?user=ArkanFzi&theme=dark" alt="GitHub Streak" />
@@ -92,5 +92,5 @@
 <br />
 
 <div align="center">
-  <p><img src="https://visitcount.itsvg.in/api?id=ArkanFzi&icon=0&color=0" alt="Profile Views" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=ArkanFzi&color=blue&style=flat-square" alt="Profile Views" /></p>
 </div>
