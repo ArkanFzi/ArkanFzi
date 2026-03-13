@@ -23,7 +23,8 @@
 </div>
 
 <br />
-## 💻 Tech Stack
+
+# 💻 <span style="color: white; font-weight: bold;">Tech Stack</span>
 
 <div align="center">
 
