@@ -74,21 +74,31 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark" alt="Arkan's GitHub stats" height="195" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark" alt="Top Languages" height="195" />
-  <br/><br/>
   
+  <table align="center" style="border: none; background-color: transparent;">
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkanFzi&show_icons=true&theme=dark" alt="Arkan's GitHub stats" height="195" />
+      </td>
+      <td align="center" style="border: none; background-color: transparent;">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArkanFzi&layout=compact&theme=dark" alt="Top Languages" height="195" />
+      </td>
+    </tr>
+  </table>
+
   <img src="https://streak-stats.demolab.com/?user=ArkanFzi&theme=dark" alt="GitHub Streak" />
+  
   <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophies.vercel.app/?username=ArkanFzi&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
+
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArkanFzi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
 
+</div>
 <br />
 
 <div align="center">
